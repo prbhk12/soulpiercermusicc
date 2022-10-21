@@ -1,8 +1,8 @@
 {
-    "name": "Zaid Vc Player",
-    "description": "Music allow you to stream music trought the telegram voice chat feature.",
+    "name": "Soulpiercer Vc Player",
+    "description": "soulpiercer Music allow you to stream music trought the telegram voice chat feature.",
     "keywords": ["Zaid", "Zaid-Vc-Player", "music", "voice chat", "telegram", "Yukki", "Yukki Music", "Private Music"],
-    "repository": "https://github.com/ITZ-ZAID/Zaid-Vc-Player",
+    "repository": "https://github.com/prbhk12/soulpiercer",
   "stack": "container",
     "env": {
         "SESSION_NAME": {
